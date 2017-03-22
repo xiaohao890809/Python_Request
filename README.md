@@ -4,6 +4,10 @@
 
 公开课链接：http://www.icourse163.org/course/BIT-1001870001
 
+https://raw.github.com/vermiculus/l3obj/master/l3obj.pdf
+
+https://github.com/xiaohao890809/Python_Request/master/WS07-Re(正则表达式)库入门.pdf
+
 * IDE使用PyCharm
 * Python版本为3.X
 
